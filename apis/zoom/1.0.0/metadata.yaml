@@ -1,0 +1,10 @@
+displayName: Zoom
+type: OpenApi
+version: 1.0.0
+description: Zoom is a video conferencing service used by companies and universities for remote communication.
+thumbnailPath: /zoom/1.0.0/icon.png
+idlPath: /zoom/1.0.0/openapi.yaml
+keywords:
+endpoints:
+  - url: https://api.zoom.us/1.0.0
+    description: default server url

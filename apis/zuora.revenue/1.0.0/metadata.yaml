@@ -1,0 +1,10 @@
+displayName: Zuora revenue
+type: OpenApi
+version: 1.0.0
+description: Zuora revenue is a service that allows you to manage your revenue.
+thumbnailPath: /zuora.revenue/1.0.0/icon.png
+idlPath: /zuora.revenue/1.0.0/openapi.yaml
+keywords:
+endpoints:
+  - url: https://api.zuora.com/1.0.0
+    description: default server url

@@ -1,0 +1,12 @@
+displayName: ably
+type: OpenApi
+version:  V1
+description: Ably provides a suite of APIs to build, extend, and deliver powerful digital experiences in realtime.
+thumbnailPath: /ably/V2/icon.png
+idlPath: /ably/V2/openapi.yaml
+keywords:
+endpoints:
+  - url:  https://api.ably.io/V1
+    description: default server url
+  - url:  https://api.ably.io/V2
+    description: alternative server url
