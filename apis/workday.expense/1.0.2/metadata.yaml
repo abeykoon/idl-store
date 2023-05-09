@@ -4,7 +4,10 @@ version: 1.0.2
 description: Workday Expenses is a service that allows you to manage your expenses.
 thumbnailPath: /workday.expense/1.0.2/icon.png
 idlPath: /workday.expense/1.0.2/openapi.yaml
+documentationPath: /workday.expense/1.0.2/readme.md
 keywords:
+  - expenses
+  - workday
 endpoints:
   - url: https://api.workday.com/1.0.2
     description: default server url

@@ -4,7 +4,10 @@ version: 1.0.0
 description: MFT Gateway is a secure file transfer service that allows you to send and receive files with your trading partners.
 thumbnailPath: /aayu.mftg.as2/1.0.0/icon.png
 idlPath: /aayu.mftg.as2/1.0.0/openapi.yaml
+documentationPath: /aayu.mftg.as2/1.0.0/readme.md
 keywords:
+  - as2
+  - file transfer
 endpoints:
   - url: https://api.aayu.dev/1.0.0
     description: default server url
