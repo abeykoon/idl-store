@@ -1,5 +1,5 @@
 displayName: ably
-type: OpenApi
+type: OpenAPI
 version:  V1
 description: Ably provides a suite of APIs to build, extend, and deliver powerful digital experiences in realtime.
 thumbnailPath: /ably/V2/icon.png

@@ -1,5 +1,5 @@
 displayName: Zoom
-type: OpenApi
+type: OpenAPI
 version: 1.0.0
 description: Zoom is a video conferencing service used by companies and universities for remote communication.
 thumbnailPath: /zoom/1.0.0/icon.png

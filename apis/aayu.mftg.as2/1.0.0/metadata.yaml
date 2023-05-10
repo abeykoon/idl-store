@@ -1,5 +1,5 @@
 displayName: MFT Gateway
-type: OpenApi
+type: OpenAPI
 version: 1.0.0
 description: MFT Gateway is a secure file transfer service that allows you to send and receive files with your trading partners.
 thumbnailPath: /aayu.mftg.as2/1.0.0/icon.png
